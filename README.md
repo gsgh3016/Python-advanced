@@ -6,7 +6,7 @@ Python advanced Study
 |이름|깃허브|
 |---|---|
 |박시형||
-|강감찬||
+|강감찬|[](https://github.com/gsgh3016)|
 |장인성||
 |이가현||
 
