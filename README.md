@@ -7,7 +7,7 @@ Python advanced Study
 |---|---|
 |박시형||
 |강감찬|[강감찬](https://github.com/gsgh3016)|
-|장인성||
+|장인성|[장인성](https://github.com/jis4969)|
 |이가현||
 
 ### 
