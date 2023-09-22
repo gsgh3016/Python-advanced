@@ -2,6 +2,14 @@
 Python advanced Study
 
 ## Ground Rule
+매주 금요일 오후 3시
+
+## 발표 내용
+|주제|링크|
+|---|---|
+|GC|GC|
+|||
+
 ### member
 |이름|깃허브|
 |---|---|
