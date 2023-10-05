@@ -8,7 +8,8 @@ Python advanced Study
 |주제|링크|
 |---|---|
 |GC|GC|
-|||
+|가능하면 array나 numpy를 사용하자|[Markdown Link](./insung/nparray/README.md)|
+|Multiprocess환경에서-NumpyPyTorch-사용|[Velog Link](https://velog.io/@sihyeong671/Multiprocess%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-NumpyPyTorch-%EC%82%AC%EC%9A%A9)|
 
 ### member
 |이름|깃허브|
