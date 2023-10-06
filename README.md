@@ -10,6 +10,7 @@ Python advanced Study
 |GC|GC|
 |가능하면 array나 numpy를 사용하자|[Markdown Link](./insung/nparray/README.md)|
 |Multiprocess환경에서-NumpyPyTorch-사용|[Velog Link](https://velog.io/@sihyeong671/Multiprocess%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-NumpyPyTorch-%EC%82%AC%EC%9A%A9)|
+|Class는 충분히 빠르지 않을 수 있다. 너무 문제가 되면 dict를 사용하자.|[Velog Link](https://velog.io/@best11gh/class)|
 
 ### member
 |이름|깃허브|
