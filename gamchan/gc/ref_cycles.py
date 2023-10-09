@@ -1,9 +1,12 @@
 import gc
 import sys
 
+gc.collect()
+
 class Link:
     def __init__(self, next_link=None):
         self.next_link = next_link
+        
         
 link_3 = Link()
 link_2 = Link(link_3)
