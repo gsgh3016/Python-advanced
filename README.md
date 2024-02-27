@@ -12,7 +12,11 @@ Python advanced Study
 |Multiprocess환경에서-NumpyPyTorch-사용|[Velog Link](https://velog.io/@sihyeong671/Multiprocess%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-NumpyPyTorch-%EC%82%AC%EC%9A%A9)|
 |Class는 충분히 빠르지 않을 수 있다. 너무 문제가 되면 dict를 사용하자.|[Velog Link](https://velog.io/@best11gh/classdictionary)|
 |Pandas DataFrame은 일반적으로 느리다|[Velog Link](https://velog.io/@jis4969/Pandas-DataFrame-%EC%83%9D%EC%84%B1%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-Overhead-%EC%B8%A1%EC%A0%95)|
-|바닐라 json 패키지는 느리다. orjson이나 ujson을 사용하자.|[Velog Link](https://velog.io/@best11gh/json)
+|바닐라 json 패키지는 느리다. orjson이나 ujson을 사용하자.|[Velog Link](https://velog.io/@best11gh/json)|
+|Pydantic은 아주 느리다. 불필요한 곳에서 가급적 사용하지 말자|[Velog Link](https://velog.io/@sihyeong671/Pydantic%EC%9D%84-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EA%B0%80%EA%B8%89%EC%A0%81-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%9E%90)|
+|멀티 프로세싱 오버헤드가 큰 경우, 싱글 프로세싱보다 느릴 수 있다|[Velog Link](https://velog.io/@jis4969/Python-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C-%EC%B8%A1%EC%A0%95)|
+|Python 3.11에서 Class 생성 개선|[Velog Link](https://velog.io/@jis4969/Python-3.11%EC%97%90%EC%84%9C-%EA%B0%9C%EC%84%A0%EB%90%9C-class-%EC%B4%88%EA%B8%B0%ED%99%94)|
+
 ### member
 |이름|깃허브|
 |---|---|
